@@ -260,6 +260,24 @@
       });
     }
 
+    /* ----- Home Page label: shows on hover or focus, and hides itself after 3 seconds ----- */
+    if (brandLink) {
+      var tipTimer = null;
+      function showTip() {
+        brandLink.classList.add('tip-show');
+        clearTimeout(tipTimer);
+        tipTimer = setTimeout(function () { brandLink.classList.remove('tip-show'); }, 3000);
+      }
+      function hideTip() {
+        clearTimeout(tipTimer);
+        brandLink.classList.remove('tip-show');
+      }
+      brandLink.addEventListener('mouseenter', showTip);
+      brandLink.addEventListener('mouseleave', hideTip);
+      brandLink.addEventListener('focus', showTip);
+      brandLink.addEventListener('blur', hideTip);
+    }
+
     /* ----- Category links: mark the current page, and scroll the row to it ----- */
     var headerNav = document.querySelector('.header-nav');
     function pageName(p) {

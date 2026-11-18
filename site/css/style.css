@@ -124,8 +124,7 @@
     z-index: 20;
   }
   /* Appears after a short pause, closes quickly */
-  .brand[data-tip]:hover::after,
-  .brand[data-tip]:focus::after { opacity: 1; transition-delay: 0.4s; }
+  .brand[data-tip].tip-show::after { opacity: 1; transition-delay: 0.4s; }
   .brand svg { width: 40px; height: 40px; flex-shrink: 0; }
   .brand small {
     display: block;
