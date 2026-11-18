@@ -380,6 +380,16 @@
   }
 
   /* ---------- Responsive ---------- */
+  /* Small screens: the All chip stays pinned at the left while the other chips scroll */
+  @media (max-width: 600px) {
+    .header-nav a:first-child {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      background: var(--surface);
+    }
+  }
+
   /* Desktop and laptop: a longer search field */
   @media (min-width: 601px) {
     .header-search.is-open { width: min(460px, calc(100vw - 260px)); }
