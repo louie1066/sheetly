@@ -107,7 +107,7 @@
   .brand[data-tip]::after {
     content: attr(data-tip);
     position: absolute;
-    top: calc(100% + 8px);
+    top: calc(100% + 2px);
     left: 50%;
     transform: translateX(-50%);
     padding: 4px 8px;
@@ -120,11 +120,12 @@
     border-radius: 6px;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.15s ease;
+    transition: opacity 0.15s ease 0.15s;
     z-index: 20;
   }
+  /* Appears after a short pause, closes quickly */
   .brand[data-tip]:hover::after,
-  .brand[data-tip]:focus::after { opacity: 1; }
+  .brand[data-tip]:focus::after { opacity: 1; transition-delay: 0.4s; }
   .brand svg { width: 40px; height: 40px; flex-shrink: 0; }
   .brand small {
     display: block;
