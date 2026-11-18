@@ -1,0 +1,2005 @@
+{
+  "pageSize": 25,
+  "templates": [
+    {
+      "slug": "monthly-household-budget-planner",
+      "name": "Monthly Household Budget",
+      "description": "Plan income and spending each month, then compare planned against actual.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/monthly-household-budget-planner.xlsx"
+    },
+    {
+      "slug": "zero-based-budget",
+      "name": "Zero-Based Budget",
+      "description": "Give every pound a job until nothing is left unassigned.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/zero-based-budget.xlsx"
+    },
+    {
+      "slug": "envelope-budgeting-tracker",
+      "name": "Envelope Budgeting Tracker",
+      "description": "Fixed envelopes for each spending area, with what is left at a glance.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/envelope-budgeting-tracker.xlsx"
+    },
+    {
+      "slug": "expense-tracker",
+      "name": "Expense Tracker",
+      "description": "Log each spend and see totals by category on a summary sheet.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/expense-tracker.xlsx"
+    },
+    {
+      "slug": "income-vs-expenses-summary",
+      "name": "Income vs Expenses Summary",
+      "description": "A twelve-month view of income, spending, net result and savings rate.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/income-vs-expenses-summary.xlsx"
+    },
+    {
+      "slug": "debt-snowball-calculator",
+      "name": "Debt Snowball Calculator",
+      "description": "Clear the smallest debts first while paying minimums on the rest.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/debt-snowball-calculator.xlsx"
+    },
+    {
+      "slug": "debt-avalanche-calculator",
+      "name": "Debt Avalanche Calculator",
+      "description": "Clear the highest-rate debt first to reduce total interest.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/debt-avalanche-calculator.xlsx"
+    },
+    {
+      "slug": "loan-amortisation-schedule",
+      "name": "Loan Amortisation Schedule",
+      "description": "Monthly repayments split into interest and principal, with the balance over time.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/loan-amortisation-schedule.xlsx"
+    },
+    {
+      "slug": "mortgage-repayment-calculator",
+      "name": "Mortgage Repayment Calculator",
+      "description": "Estimate monthly repayments, total interest and total cost of a home loan.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/mortgage-repayment-calculator.xlsx"
+    },
+    {
+      "slug": "car-loan-comparison",
+      "name": "Car Loan Comparison",
+      "description": "Compare up to three car finance offers by total cost.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/car-loan-comparison.xlsx"
+    },
+    {
+      "slug": "savings-goal-tracker",
+      "name": "Savings Goal Tracker",
+      "description": "Log deposits and track progress towards a savings target.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/savings-goal-tracker.xlsx"
+    },
+    {
+      "slug": "emergency-fund-calculator",
+      "name": "Emergency Fund Calculator",
+      "description": "Work out your emergency fund target from essential monthly costs.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/emergency-fund-calculator.xlsx"
+    },
+    {
+      "slug": "net-worth-tracker",
+      "name": "Net Worth Tracker",
+      "description": "Record assets and liabilities to see your net worth over time.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/net-worth-tracker.xlsx"
+    },
+    {
+      "slug": "subscription-cost-tracker",
+      "name": "Subscription Cost Tracker",
+      "description": "See what recurring subscriptions cost per month and per year.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/subscription-cost-tracker.xlsx"
+    },
+    {
+      "slug": "bill-payment-calendar",
+      "name": "Bill Payment Calendar",
+      "description": "Track due days, amounts and which bills are paid this month.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/bill-payment-calendar.xlsx"
+    },
+    {
+      "slug": "annual-cash-flow-forecast",
+      "name": "Annual Cash-Flow Forecast",
+      "description": "Forecast your bank balance month by month and spot the low point.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/annual-cash-flow-forecast.xlsx"
+    },
+    {
+      "slug": "credit-card-payoff-planner",
+      "name": "Credit Card Payoff Planner",
+      "description": "See how long a card balance takes to clear and the interest you will pay.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/credit-card-payoff-planner.xlsx"
+    },
+    {
+      "slug": "retirement-savings-projection",
+      "name": "Retirement Savings Projection",
+      "description": "Project how savings could grow from today until retirement age.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/retirement-savings-projection.xlsx"
+    },
+    {
+      "slug": "compound-interest-calculator",
+      "name": "Compound Interest Calculator",
+      "description": "See how a starting amount and regular saving grow with interest.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/compound-interest-calculator.xlsx"
+    },
+    {
+      "slug": "sinking-funds-planner",
+      "name": "Sinking Funds Planner",
+      "description": "Set aside a fixed amount each month for costs that come once a year.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/sinking-funds-planner.xlsx"
+    },
+    {
+      "slug": "tax-estimate-calculator",
+      "name": "Tax Estimate Calculator",
+      "description": "Estimate income tax using progressive bands. Check your local rules.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/tax-estimate-calculator.xlsx"
+    },
+    {
+      "slug": "freelancer-income-tracker",
+      "name": "Freelancer Income Tracker",
+      "description": "Log work and payments, and set aside money for tax automatically.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/freelancer-income-tracker.xlsx"
+    },
+    {
+      "slug": "price-comparison-sheet",
+      "name": "Price Comparison Sheet",
+      "description": "Compare prices per unit to find the best value across options.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/price-comparison-sheet.xlsx"
+    },
+    {
+      "slug": "weekly-grocery-budget",
+      "name": "Weekly Grocery Budget",
+      "description": "Track weekly food spending against a set budget.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/weekly-grocery-budget.xlsx"
+    },
+    {
+      "slug": "holiday-gift-budget",
+      "name": "Holiday Gift Budget",
+      "description": "Plan gifts within a budget and record what you actually spend.",
+      "category": "personal-finance",
+      "categoryName": "Personal Finance & Budgeting",
+      "file": "downloads/personal-finance/holiday-gift-budget.xlsx"
+    },
+    {
+      "slug": "gradebook-weighted-averages",
+      "name": "Gradebook with Weighted Averages",
+      "description": "Enter marks and weights to get each student's weighted percentage and grade.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/gradebook-weighted-averages.xlsx"
+    },
+    {
+      "slug": "attendance-register",
+      "name": "Attendance Register",
+      "description": "Record present, late, absent and authorised codes, with attendance % per student.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/attendance-register.xlsx"
+    },
+    {
+      "slug": "seating-plan-generator",
+      "name": "Seating Plan Generator",
+      "description": "Type names in list order and see them placed on a classroom grid.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/seating-plan-generator.xlsx"
+    },
+    {
+      "slug": "lesson-plan-template",
+      "name": "Lesson Plan Template",
+      "description": "Plan objectives, stages and timings, and check that the lesson fits.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/lesson-plan-template.xlsx"
+    },
+    {
+      "slug": "scheme-of-work-planner",
+      "name": "Scheme of Work Planner",
+      "description": "Plan lessons week by week and track how many have been taught.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/scheme-of-work-planner.xlsx"
+    },
+    {
+      "slug": "termly-timetable",
+      "name": "Termly Timetable",
+      "description": "Build a weekly timetable and count lessons per subject automatically.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/termly-timetable.xlsx"
+    },
+    {
+      "slug": "rubric-scoring-sheet",
+      "name": "Rubric Scoring Sheet",
+      "description": "Score work against weighted criteria on a 1 to 4 scale.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/rubric-scoring-sheet.xlsx"
+    },
+    {
+      "slug": "mark-sheet-grade-boundaries",
+      "name": "Mark Sheet with Grade Boundaries",
+      "description": "Convert marks to grades using your own boundary table, with pass or fail.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/mark-sheet-grade-boundaries.xlsx"
+    },
+    {
+      "slug": "assessment-tracker-learning-objective",
+      "name": "Assessment Tracker by Learning Objective",
+      "description": "Track each student against learning objectives as not yet, developing or secure.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/assessment-tracker-learning-objective.xlsx"
+    },
+    {
+      "slug": "student-progress-tracker",
+      "name": "Student Progress Tracker",
+      "description": "Follow test results over time and flag students who need support or stretch.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/student-progress-tracker.xlsx"
+    },
+    {
+      "slug": "homework-tracker",
+      "name": "Homework Tracker",
+      "description": "Log on-time, late and missing homework for each student and task.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/homework-tracker.xlsx"
+    },
+    {
+      "slug": "behaviour-points-log",
+      "name": "Behaviour Points Log",
+      "description": "Log positive and negative points, with totals for each student.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/behaviour-points-log.xlsx"
+    },
+    {
+      "slug": "parent-contact-log",
+      "name": "Parent Contact Log",
+      "description": "Record contacts with parents and carers, and track open follow-ups.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/parent-contact-log.xlsx"
+    },
+    {
+      "slug": "class-roster",
+      "name": "Class Roster",
+      "description": "Keep a simple class list with tutor groups and counts for each group.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/class-roster.xlsx"
+    },
+    {
+      "slug": "reading-log",
+      "name": "Reading Log",
+      "description": "Record books read, pages and dates, with days taken and pages per day.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/reading-log.xlsx"
+    },
+    {
+      "slug": "quiz-score-analyser",
+      "name": "Quiz Score Analyser",
+      "description": "See each student's score and how hard each question was for the class.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/quiz-score-analyser.xlsx"
+    },
+    {
+      "slug": "exam-timetable-planner",
+      "name": "Exam Timetable Planner",
+      "description": "Plan exam dates, times and rooms, and flag students with two exams on one day.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/exam-timetable-planner.xlsx"
+    },
+    {
+      "slug": "revision-schedule",
+      "name": "Revision Schedule",
+      "description": "Plan revision hours by topic and track hours done and left.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/revision-schedule.xlsx"
+    },
+    {
+      "slug": "student-project-tracker",
+      "name": "Student Project Tracker",
+      "description": "Track project milestones, due dates and overdue work.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/student-project-tracker.xlsx"
+    },
+    {
+      "slug": "lab-equipment-booking",
+      "name": "Lab Equipment Booking",
+      "description": "Book rooms and equipment by period, and flag clashes and over-booked stock.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/lab-equipment-booking.xlsx"
+    },
+    {
+      "slug": "classroom-budget-tracker",
+      "name": "Classroom Budget Tracker",
+      "description": "Set category budgets and log spending against them.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/classroom-budget-tracker.xlsx"
+    },
+    {
+      "slug": "club-signup-sheet",
+      "name": "Club Sign-up Sheet",
+      "description": "Count first-choice sign-ups per club and see spaces left.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/club-signup-sheet.xlsx"
+    },
+    {
+      "slug": "group-work-rotation-planner",
+      "name": "Group-Work Rotation Planner",
+      "description": "Rotate students through groups each round and check the group sizes.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/group-work-rotation-planner.xlsx"
+    },
+    {
+      "slug": "report-card-comment-bank",
+      "name": "Report Card Comment Bank",
+      "description": "Build report comments from a bank of coded phrases, with word counts.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/report-card-comment-bank.xlsx"
+    },
+    {
+      "slug": "course-completion-checklist",
+      "name": "Course Completion Checklist",
+      "description": "Track course items by unit and see percent complete.",
+      "category": "education",
+      "categoryName": "Education & Classroom",
+      "file": "downloads/education/course-completion-checklist.xlsx"
+    },
+    {
+      "slug": "it-asset-register",
+      "name": "IT Asset Register",
+      "description": "Track devices by type, location and cost, and flag older equipment.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/it-asset-register.xlsx"
+    },
+    {
+      "slug": "software-licence-tracker",
+      "name": "Software Licence Tracker",
+      "description": "Compare licences owned with seats used and see renewals coming up.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/software-licence-tracker.xlsx"
+    },
+    {
+      "slug": "help-desk-ticket-log",
+      "name": "Help Desk Ticket Log",
+      "description": "Log support tickets and check resolution times against priority targets.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/help-desk-ticket-log.xlsx"
+    },
+    {
+      "slug": "server-backup-log",
+      "name": "Server Backup Schedule Log",
+      "description": "Log backup runs and see the success rate for each server.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/server-backup-log.xlsx"
+    },
+    {
+      "slug": "ip-address-planner",
+      "name": "IP Address Planner",
+      "description": "Work out subnet block sizes and prefixes for each department's hosts.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/ip-address-planner.xlsx"
+    },
+    {
+      "slug": "network-device-inventory",
+      "name": "Network Device Inventory",
+      "description": "Record network devices and track warranty expiry dates.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/network-device-inventory.xlsx"
+    },
+    {
+      "slug": "hardware-refresh-planner",
+      "name": "Hardware Refresh Planner",
+      "description": "Plan replacement dates for devices and the budget needed to replace them.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/hardware-refresh-planner.xlsx"
+    },
+    {
+      "slug": "sprint-backlog-burndown",
+      "name": "Sprint Backlog and Burndown",
+      "description": "Track sprint tasks and compare remaining points with the ideal burndown line.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/sprint-backlog-burndown.xlsx"
+    },
+    {
+      "slug": "bug-tracker",
+      "name": "Bug Tracker",
+      "description": "Log bugs by severity and status, and see how long each has been open.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/bug-tracker.xlsx"
+    },
+    {
+      "slug": "test-case-log",
+      "name": "Test Case Log",
+      "description": "Record tests with expected and actual results, and calculate the pass rate.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/test-case-log.xlsx"
+    },
+    {
+      "slug": "code-review-checklist",
+      "name": "Code Review Checklist",
+      "description": "Review code files against a checklist and see the pass rate for each file.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/code-review-checklist.xlsx"
+    },
+    {
+      "slug": "website-traffic-summary",
+      "name": "Website Traffic Summary",
+      "description": "Track monthly visits and page views, with changes and the busiest month.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/website-traffic-summary.xlsx"
+    },
+    {
+      "slug": "cloud-cost-estimator",
+      "name": "Cloud Cost Estimator",
+      "description": "Estimate monthly and yearly cloud costs, with a contingency allowance.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/cloud-cost-estimator.xlsx"
+    },
+    {
+      "slug": "uptime-incident-log",
+      "name": "Uptime and Incident Log",
+      "description": "Log outages and calculate downtime and uptime for the month.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/uptime-incident-log.xlsx"
+    },
+    {
+      "slug": "change-request-log",
+      "name": "Change Request Log",
+      "description": "Track change requests through approval and delivery, and flag overdue work.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/change-request-log.xlsx"
+    },
+    {
+      "slug": "data-cleansing-checklist",
+      "name": "Data Cleansing Checklist",
+      "description": "Work through data clean-up steps and record rows changed at each step.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/data-cleansing-checklist.xlsx"
+    },
+    {
+      "slug": "data-dictionary-template",
+      "name": "Data Dictionary Template",
+      "description": "Document each field's type, format and rules, and check for gaps.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/data-dictionary-template.xlsx"
+    },
+    {
+      "slug": "api-endpoint-documentation",
+      "name": "API Endpoint Documentation",
+      "description": "Document each API endpoint's method, authentication and responses.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/api-endpoint-documentation.xlsx"
+    },
+    {
+      "slug": "release-checklist",
+      "name": "Release Checklist",
+      "description": "Track each release task by stage, from build to review.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/release-checklist.xlsx"
+    },
+    {
+      "slug": "computer-lab-booking-maintenance",
+      "name": "Computer Lab Booking and Maintenance Log",
+      "description": "Log lab bookings and maintenance tasks, with costs and tasks due soon.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/computer-lab-booking-maintenance.xlsx"
+    },
+    {
+      "slug": "printer-consumables-tracker",
+      "name": "Printer and Consumables Tracker",
+      "description": "Track toner levels, reorder points and the cost per printed page.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/printer-consumables-tracker.xlsx"
+    },
+    {
+      "slug": "new-device-onboarding-checklist",
+      "name": "New-Device Onboarding Checklist",
+      "description": "Track each new device through the onboarding steps to completion.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/new-device-onboarding-checklist.xlsx"
+    },
+    {
+      "slug": "binary-hex-conversion-practice",
+      "name": "Binary and Hexadecimal Conversion Practice",
+      "description": "Practise decimal, binary and hex conversions with automatic checking.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/binary-hex-conversion-practice.xlsx"
+    },
+    {
+      "slug": "algorithm-trace-table",
+      "name": "Algorithm Trace Table",
+      "description": "Trace a short program step by step and check the final value.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/algorithm-trace-table.xlsx"
+    },
+    {
+      "slug": "program-testing-record",
+      "name": "Program Testing Record",
+      "description": "Record test inputs and outputs for a function, with pass or fail for each test.",
+      "category": "it-computing",
+      "categoryName": "IT & Computing",
+      "file": "downloads/it-computing/program-testing-record.xlsx"
+    },
+    {
+      "slug": "invoice-generator",
+      "name": "Invoice Generator",
+      "description": "Create an invoice with line items, VAT and the balance still due.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/invoice-generator.xlsx"
+    },
+    {
+      "slug": "quote-estimate-template",
+      "name": "Quote and Estimate Template",
+      "description": "Price a job with line items, a discount and VAT, with a validity date.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/quote-estimate-template.xlsx"
+    },
+    {
+      "slug": "purchase-order-log",
+      "name": "Purchase Order Log",
+      "description": "Track purchase orders from approval to delivery and see open order values.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/purchase-order-log.xlsx"
+    },
+    {
+      "slug": "accounts-receivable-aging-report",
+      "name": "Accounts Receivable Aging Report",
+      "description": "See which client invoices are unpaid and how long they are overdue.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/accounts-receivable-aging-report.xlsx"
+    },
+    {
+      "slug": "accounts-payable-tracker",
+      "name": "Accounts Payable Tracker",
+      "description": "Track supplier bills, what is paid, and what is due soon or overdue.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/accounts-payable-tracker.xlsx"
+    },
+    {
+      "slug": "profit-and-loss-statement",
+      "name": "Profit and Loss Statement",
+      "description": "Enter income and costs to see gross, operating and net profit.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/profit-and-loss-statement.xlsx"
+    },
+    {
+      "slug": "cash-flow-forecast",
+      "name": "Cash Flow Forecast",
+      "description": "Forecast monthly cash in and out, and find the lowest cash point.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/cash-flow-forecast.xlsx"
+    },
+    {
+      "slug": "break-even-analysis",
+      "name": "Break-even Analysis",
+      "description": "Find the sales volume that covers your costs and the profit at planned sales.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/break-even-analysis.xlsx"
+    },
+    {
+      "slug": "inventory-stock-count-sheet",
+      "name": "Inventory Stock Count Sheet",
+      "description": "Compare system stock with physical counts and value the differences.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/inventory-stock-count-sheet.xlsx"
+    },
+    {
+      "slug": "reorder-level-calculator",
+      "name": "Reorder Level Calculator",
+      "description": "Work out when to reorder each item from sales rate, lead time and safety stock.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/reorder-level-calculator.xlsx"
+    },
+    {
+      "slug": "payroll-calculator",
+      "name": "Payroll Calculator",
+      "description": "Work out tax, contributions and net pay, using example rates you can replace.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/payroll-calculator.xlsx"
+    },
+    {
+      "slug": "timesheet-overtime",
+      "name": "Timesheet with Overtime",
+      "description": "Record weekly hours and calculate regular hours, overtime and gross pay.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/timesheet-overtime.xlsx"
+    },
+    {
+      "slug": "mileage-log",
+      "name": "Mileage Log",
+      "description": "Log business journeys and calculate mileage claims at your rate.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/mileage-log.xlsx"
+    },
+    {
+      "slug": "expense-claim-form",
+      "name": "Expense Claim Form",
+      "description": "Itemise expenses and flag any line that is missing a receipt.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/expense-claim-form.xlsx"
+    },
+    {
+      "slug": "petty-cash-register",
+      "name": "Petty Cash Register",
+      "description": "Track petty cash in and out with a running balance and a cash count check.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/petty-cash-register.xlsx"
+    },
+    {
+      "slug": "vat-sales-tax-calculator",
+      "name": "VAT and Sales Tax Calculator",
+      "description": "Calculate VAT and gross totals for each item at its own rate.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/vat-sales-tax-calculator.xlsx"
+    },
+    {
+      "slug": "product-pricing-margin-calculator",
+      "name": "Product Pricing and Margin Calculator",
+      "description": "Set selling prices from markups and see margins and target prices.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/product-pricing-margin-calculator.xlsx"
+    },
+    {
+      "slug": "client-contact-list",
+      "name": "Client Contact List",
+      "description": "Keep client details and see who needs a follow-up call.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/client-contact-list.xlsx"
+    },
+    {
+      "slug": "sales-pipeline-tracker",
+      "name": "Sales Pipeline Tracker",
+      "description": "Track deals by stage, with weighted values for your open pipeline.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/sales-pipeline-tracker.xlsx"
+    },
+    {
+      "slug": "supplier-comparison",
+      "name": "Supplier Comparison",
+      "description": "Compare supplier prices for each item and see the cheapest overall.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/supplier-comparison.xlsx"
+    },
+    {
+      "slug": "business-plan-projections",
+      "name": "Business Plan Financial Projections",
+      "description": "Project three years of revenue, costs and profit from your assumptions.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/business-plan-projections.xlsx"
+    },
+    {
+      "slug": "asset-depreciation-schedule",
+      "name": "Asset Depreciation Schedule",
+      "description": "Calculate straight-line depreciation by year for each asset.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/asset-depreciation-schedule.xlsx"
+    },
+    {
+      "slug": "shift-rota",
+      "name": "Shift Rota",
+      "description": "Plan shifts for each person and see hours and cover per shift.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/shift-rota.xlsx"
+    },
+    {
+      "slug": "stock-valuation-fifo-lifo",
+      "name": "Stock Valuation (FIFO and LIFO)",
+      "description": "Value cost of sales and remaining stock with FIFO and LIFO side by side.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/stock-valuation-fifo-lifo.xlsx"
+    },
+    {
+      "slug": "refunds-returns-log",
+      "name": "Refunds and Returns Log",
+      "description": "Log refunds and returns with reasons, status and totals.",
+      "category": "small-business",
+      "categoryName": "Small Business & Invoicing",
+      "file": "downloads/small-business/refunds-returns-log.xlsx"
+    },
+    {
+      "slug": "gantt-chart",
+      "name": "Gantt Chart",
+      "description": "Plan tasks on a weekly timeline that shades the weeks each task is active.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/gantt-chart.xlsx"
+    },
+    {
+      "slug": "kanban-board",
+      "name": "Kanban Board",
+      "description": "Track cards across columns, with work-in-progress limits and due-date flags.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/kanban-board.xlsx"
+    },
+    {
+      "slug": "project-budget-tracker",
+      "name": "Project Budget Tracker",
+      "description": "Compare budget, spend and commitments to forecast the final cost.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/project-budget-tracker.xlsx"
+    },
+    {
+      "slug": "task-list-priorities",
+      "name": "Task List with Priorities",
+      "description": "List tasks by priority and status, with days left and overdue flags.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/task-list-priorities.xlsx"
+    },
+    {
+      "slug": "milestone-tracker",
+      "name": "Milestone Tracker",
+      "description": "Compare target and forecast dates for each milestone and see the slip.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/milestone-tracker.xlsx"
+    },
+    {
+      "slug": "risk-register",
+      "name": "Risk Register",
+      "description": "Score each risk by likelihood and impact, and rate it High, Medium or Low.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/risk-register.xlsx"
+    },
+    {
+      "slug": "raci-matrix",
+      "name": "RACI Matrix",
+      "description": "Show who does, approves, is consulted and is informed for each activity.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/raci-matrix.xlsx"
+    },
+    {
+      "slug": "meeting-agenda-minutes-log",
+      "name": "Meeting Agenda and Minutes Log",
+      "description": "Log each meeting’s attendance, decisions and actions, with totals.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/meeting-agenda-minutes-log.xlsx"
+    },
+    {
+      "slug": "action-items-tracker",
+      "name": "Action Items Tracker",
+      "description": "Track actions from meetings to completion and see which are overdue.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/action-items-tracker.xlsx"
+    },
+    {
+      "slug": "resource-allocation-planner",
+      "name": "Resource Allocation Planner",
+      "description": "Compare hours planned for each person with their weekly capacity.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/resource-allocation-planner.xlsx"
+    },
+    {
+      "slug": "time-tracking-by-project",
+      "name": "Time Tracking by Project",
+      "description": "Log hours against each project and see billable time at a glance.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/time-tracking-by-project.xlsx"
+    },
+    {
+      "slug": "project-status-dashboard",
+      "name": "Project Status Dashboard",
+      "description": "Give each project a Green, Amber or Red health rating with a progress chart.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/project-status-dashboard.xlsx"
+    },
+    {
+      "slug": "weekly-team-status-report",
+      "name": "Weekly Team Status Report",
+      "description": "Collect each person’s progress, plans, blockers and confidence for the week.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/weekly-team-status-report.xlsx"
+    },
+    {
+      "slug": "decision-log",
+      "name": "Decision Log",
+      "description": "Record decisions, the options considered, and when each one needs review.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/decision-log.xlsx"
+    },
+    {
+      "slug": "stakeholder-register",
+      "name": "Stakeholder Register",
+      "description": "Map stakeholders by interest and influence, and plan how to engage each one.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/stakeholder-register.xlsx"
+    },
+    {
+      "slug": "change-control-log",
+      "name": "Change Control Log",
+      "description": "Track change requests, their effort and schedule impact, and approved totals.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/change-control-log.xlsx"
+    },
+    {
+      "slug": "work-breakdown-structure",
+      "name": "Work Breakdown Structure",
+      "description": "Split the project into phases and work packages, with hour estimates.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/work-breakdown-structure.xlsx"
+    },
+    {
+      "slug": "capacity-planning-sheet",
+      "name": "Capacity Planning Sheet",
+      "description": "Compare each role’s weekly capacity with demand and flag shortfalls.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/capacity-planning-sheet.xlsx"
+    },
+    {
+      "slug": "vendor-evaluation-scorecard",
+      "name": "Vendor Evaluation Scorecard",
+      "description": "Weight each criterion, score each vendor, and rank the results.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/vendor-evaluation-scorecard.xlsx"
+    },
+    {
+      "slug": "lessons-learned-log",
+      "name": "Lessons Learned Log",
+      "description": "Record what happened, the lesson and the action, with totals by category.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/lessons-learned-log.xlsx"
+    },
+    {
+      "slug": "okr-tracker",
+      "name": "OKR Tracker",
+      "description": "Track each key result’s progress from start to target, with confidence.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/okr-tracker.xlsx"
+    },
+    {
+      "slug": "personal-goal-tracker",
+      "name": "Personal Goal Tracker",
+      "description": "Track milestones for each personal goal, with days left and status.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/personal-goal-tracker.xlsx"
+    },
+    {
+      "slug": "event-run-sheet",
+      "name": "Event Run Sheet",
+      "description": "Plan the timings of an event, with finish times and total run time.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-run-sheet.xlsx"
+    },
+    {
+      "slug": "document-version-register",
+      "name": "Document Version Register",
+      "description": "Track every version of a document, who reviewed it, and what changed.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/document-version-register.xlsx"
+    },
+    {
+      "slug": "onboarding-task-checklist",
+      "name": "Onboarding Task Checklist",
+      "description": "Set a start date and give each onboarding task a due date and status.",
+      "category": "project-management",
+      "categoryName": "Project & Task Management",
+      "file": "downloads/project-management/onboarding-task-checklist.xlsx"
+    },
+    {
+      "slug": "workout-log",
+      "name": "Workout Log",
+      "description": "Log each exercise with sets, reps and weight, and see the total volume.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/workout-log.xlsx"
+    },
+    {
+      "slug": "running-training-plan",
+      "name": "Running Training Plan",
+      "description": "Plan each week's runs, log what you ran, and compare distance with plan.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/running-training-plan.xlsx"
+    },
+    {
+      "slug": "weight-tracker",
+      "name": "Weight Tracker",
+      "description": "Track your weight over time and see the change since your first entry.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/weight-tracker.xlsx"
+    },
+    {
+      "slug": "calorie-and-macro-tracker",
+      "name": "Calorie and Macro Tracker",
+      "description": "Log foods with energy, protein, carbohydrate and fat, and see the totals.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/calorie-and-macro-tracker.xlsx"
+    },
+    {
+      "slug": "meal-planner",
+      "name": "Meal Planner",
+      "description": "Plan breakfast, lunch, dinner and snacks for the week, with prep time.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/meal-planner.xlsx"
+    },
+    {
+      "slug": "water-intake-tracker",
+      "name": "Water Intake Tracker",
+      "description": "Log cups of water each day and see millilitres and averages.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/water-intake-tracker.xlsx"
+    },
+    {
+      "slug": "sleep-log",
+      "name": "Sleep Log",
+      "description": "Record bedtime, wake time and how rested you felt, with hours slept.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/sleep-log.xlsx"
+    },
+    {
+      "slug": "habit-tracker",
+      "name": "Habit Tracker",
+      "description": "Mark each habit by day, and see days done against your weekly target.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/habit-tracker.xlsx"
+    },
+    {
+      "slug": "daily-reflection-journal",
+      "name": "Daily Reflection Journal",
+      "description": "A private daily record of highlights, challenges and gratitude.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/daily-reflection-journal.xlsx"
+    },
+    {
+      "slug": "medication-reminder-schedule",
+      "name": "Medication Reminder Schedule",
+      "description": "List medicines, times and refill dates, with days left before each refill.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/medication-reminder-schedule.xlsx"
+    },
+    {
+      "slug": "blood-pressure-log",
+      "name": "Blood Pressure Log",
+      "description": "Record readings and check them against the limits your doctor gives you.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/blood-pressure-log.xlsx"
+    },
+    {
+      "slug": "blood-glucose-log",
+      "name": "Blood Glucose Log",
+      "description": "Record readings and check them against the range your clinician gives you.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/blood-glucose-log.xlsx"
+    },
+    {
+      "slug": "step-count-tracker",
+      "name": "Step Count Tracker",
+      "description": "Log daily steps against your own goal and see your averages.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/step-count-tracker.xlsx"
+    },
+    {
+      "slug": "body-measurement-tracker",
+      "name": "Body Measurement Tracker",
+      "description": "Track chest, waist, hips, arm and thigh measurements over time.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/body-measurement-tracker.xlsx"
+    },
+    {
+      "slug": "strength-progression-chart",
+      "name": "Strength Progression Chart",
+      "description": "Log lifts and see the estimated one-rep max and your best so far.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/strength-progression-chart.xlsx"
+    },
+    {
+      "slug": "cycling-log",
+      "name": "Cycling Log",
+      "description": "Log rides with distance, time and elevation, and see average speed.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/cycling-log.xlsx"
+    },
+    {
+      "slug": "recipe-nutrition-calculator",
+      "name": "Recipe Nutrition Calculator",
+      "description": "Work out energy and macronutrients per serving from ingredient values.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/recipe-nutrition-calculator.xlsx"
+    },
+    {
+      "slug": "baby-feeding-and-nappy-log",
+      "name": "Baby Feeding and Nappy Log",
+      "description": "Log feeds and nappies with their times, and see daily totals.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/baby-feeding-and-nappy-log.xlsx"
+    },
+    {
+      "slug": "childcare-schedule",
+      "name": "Childcare Schedule",
+      "description": "Plan who looks after the children each day, with hours booked.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/childcare-schedule.xlsx"
+    },
+    {
+      "slug": "symptom-diary",
+      "name": "Symptom Diary",
+      "description": "Record symptoms, severity and what was happening, to share at appointments.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/symptom-diary.xlsx"
+    },
+    {
+      "slug": "stretching-routine-planner",
+      "name": "Stretching Routine Planner",
+      "description": "Plan stretches with hold times and sets, and see the routine length.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/stretching-routine-planner.xlsx"
+    },
+    {
+      "slug": "team-sports-stats-tracker",
+      "name": "Team Sports Stats Tracker",
+      "description": "Record goals, assists and minutes for each player, with goals per 90 minutes.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/team-sports-stats-tracker.xlsx"
+    },
+    {
+      "slug": "annual-health-check-reminders",
+      "name": "Annual Health Check Reminders",
+      "description": "Track check-up dates and see which are overdue or due soon.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/annual-health-check-reminders.xlsx"
+    },
+    {
+      "slug": "gym-membership-cost-tracker",
+      "name": "Gym Membership Cost Tracker",
+      "description": "Track monthly fees and visits, and see the cost per visit.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/gym-membership-cost-tracker.xlsx"
+    },
+    {
+      "slug": "screen-time-log",
+      "name": "Screen Time Log",
+      "description": "Log screen time by device and purpose, with hours calculated.",
+      "category": "health-fitness",
+      "categoryName": "Health, Fitness & Wellbeing",
+      "file": "downloads/health-fitness/screen-time-log.xlsx"
+    },
+    {
+      "slug": "chore-rota",
+      "name": "Chore Rota",
+      "description": "Assign each chore to a person and day, with minutes and progress.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/chore-rota.xlsx"
+    },
+    {
+      "slug": "home-maintenance-schedule",
+      "name": "Home Maintenance Schedule",
+      "description": "Track when each home job was last done and when it is next due.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/home-maintenance-schedule.xlsx"
+    },
+    {
+      "slug": "household-inventory-insurance",
+      "name": "Household Inventory for Insurance",
+      "description": "List valuable items with replacement values and receipts for insurance records.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/household-inventory-insurance.xlsx"
+    },
+    {
+      "slug": "pantry-inventory",
+      "name": "Pantry Inventory",
+      "description": "Track what is in the cupboard, fridge and freezer, with use-by dates and reorder levels.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/pantry-inventory.xlsx"
+    },
+    {
+      "slug": "meal-plan-shopping-list",
+      "name": "Meal Plan and Shopping List",
+      "description": "Turn each planned meal into a shopping list, grouped by aisle.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/meal-plan-shopping-list.xlsx"
+    },
+    {
+      "slug": "cleaning-schedule",
+      "name": "Cleaning Schedule",
+      "description": "Plan daily, weekly and monthly cleaning, with next due dates and overdue tasks.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/cleaning-schedule.xlsx"
+    },
+    {
+      "slug": "garden-planting-planner",
+      "name": "Garden Planting Planner",
+      "description": "Plan sowing and harvest windows for each crop and see which stage it is at.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/garden-planting-planner.xlsx"
+    },
+    {
+      "slug": "home-energy-usage-tracker",
+      "name": "Home Energy Usage Tracker",
+      "description": "Log meter readings to see electricity and gas used between readings, with costs.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/home-energy-usage-tracker.xlsx"
+    },
+    {
+      "slug": "utility-bill-comparison",
+      "name": "Utility Bill Comparison",
+      "description": "Compare tariffs by estimated monthly cost and see which is cheapest.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/utility-bill-comparison.xlsx"
+    },
+    {
+      "slug": "moving-checklist",
+      "name": "Moving Checklist",
+      "description": "Track every task before a move, with owners, due dates and overdue items.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/moving-checklist.xlsx"
+    },
+    {
+      "slug": "home-renovation-budget",
+      "name": "Home Renovation Budget",
+      "description": "Compare quotes with actual costs room by room, with a contingency allowance.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/home-renovation-budget.xlsx"
+    },
+    {
+      "slug": "paint-materials-calculator",
+      "name": "Paint and Materials Calculator",
+      "description": "Work out wall area, paint litres and tins from each room's size.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/paint-materials-calculator.xlsx"
+    },
+    {
+      "slug": "wardrobe-inventory",
+      "name": "Wardrobe Inventory",
+      "description": "List clothes with price, times worn and cost per wear.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/wardrobe-inventory.xlsx"
+    },
+    {
+      "slug": "pet-care-log",
+      "name": "Pet Care Log",
+      "description": "Record feeding, walks, vet visits and costs for each pet.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/pet-care-log.xlsx"
+    },
+    {
+      "slug": "plant-watering-schedule",
+      "name": "Plant Watering Schedule",
+      "description": "See when each houseplant needs watering next.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/plant-watering-schedule.xlsx"
+    },
+    {
+      "slug": "birthday-anniversary-reminders",
+      "name": "Birthday and Anniversary Reminder List",
+      "description": "Track birthdays and anniversaries and see how many days until each one.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/birthday-anniversary-reminders.xlsx"
+    },
+    {
+      "slug": "warranty-tracker",
+      "name": "Warranty Tracker",
+      "description": "Record warranties with end dates, days left and expiry flags.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/warranty-tracker.xlsx"
+    },
+    {
+      "slug": "smart-home-device-list",
+      "name": "Smart Home Device List",
+      "description": "List connected devices and flag any whose software has not been checked recently.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/smart-home-device-list.xlsx"
+    },
+    {
+      "slug": "packing-list",
+      "name": "Packing List",
+      "description": "List what to pack, which bag it goes in, and track progress as you go.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/packing-list.xlsx"
+    },
+    {
+      "slug": "car-maintenance-log",
+      "name": "Car Maintenance Log",
+      "description": "Log each job on the car with its mileage, cost and next due mileage.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/car-maintenance-log.xlsx"
+    },
+    {
+      "slug": "fuel-economy-tracker",
+      "name": "Fuel Economy Tracker",
+      "description": "Track fill-ups to see distance, cost and litres per 100 km.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/fuel-economy-tracker.xlsx"
+    },
+    {
+      "slug": "vehicle-service-schedule",
+      "name": "Vehicle Service Schedule",
+      "description": "See how far each service is from due, based on the current odometer.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/vehicle-service-schedule.xlsx"
+    },
+    {
+      "slug": "recipe-scaling-calculator",
+      "name": "Recipe Scaling Calculator",
+      "description": "Scale a recipe up or down to the number of servings you need.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/recipe-scaling-calculator.xlsx"
+    },
+    {
+      "slug": "house-sitting-instructions",
+      "name": "House-Sitting Instructions Sheet",
+      "description": "Give a house-sitter one clear sheet of tasks, locations and contacts.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/house-sitting-instructions.xlsx"
+    },
+    {
+      "slug": "emergency-contacts-list",
+      "name": "Emergency Contacts List",
+      "description": "Keep the people and services to call in an emergency in one printable list.",
+      "category": "home-household",
+      "categoryName": "Home & Household",
+      "file": "downloads/home-household/emergency-contacts-list.xlsx"
+    },
+    {
+      "slug": "trip-itinerary-planner",
+      "name": "Trip Itinerary Planner",
+      "description": "Plan each day's activities with times, places, booking references and costs.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/trip-itinerary-planner.xlsx"
+    },
+    {
+      "slug": "travel-budget",
+      "name": "Travel Budget",
+      "description": "Set a budget for each travel category and track what you actually spend.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/travel-budget.xlsx"
+    },
+    {
+      "slug": "currency-conversion-log",
+      "name": "Currency Conversion Log",
+      "description": "Log foreign spending with the rate you were charged, including any card fee.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/currency-conversion-log.xlsx"
+    },
+    {
+      "slug": "travel-packing-checklist",
+      "name": "Travel Packing Checklist",
+      "description": "Record what each person packs, which bag it goes in, and check the total weight against your allowance.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/travel-packing-checklist.xlsx"
+    },
+    {
+      "slug": "flight-and-hotel-comparison",
+      "name": "Flight and Hotel Comparison",
+      "description": "Compare flight and hotel options on total cost, cost per night and rank.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/flight-and-hotel-comparison.xlsx"
+    },
+    {
+      "slug": "road-trip-fuel-calculator",
+      "name": "Road Trip Fuel Cost Calculator",
+      "description": "Work out fuel needed and cost for each leg, then share the total between travellers.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/road-trip-fuel-calculator.xlsx"
+    },
+    {
+      "slug": "event-budget-planner",
+      "name": "Event Budget Planner",
+      "description": "Estimate each event cost and compare it with what you actually paid.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-budget-planner.xlsx"
+    },
+    {
+      "slug": "wedding-budget-planner",
+      "name": "Wedding Budget Planner",
+      "description": "Track each supplier's estimate, deposit and balance, with a contingency allowance.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/wedding-budget-planner.xlsx"
+    },
+    {
+      "slug": "passport-and-document-tracker",
+      "name": "Passport and Document Tracker",
+      "description": "Record travel documents with expiry dates and flag any that need renewing.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/passport-and-document-tracker.xlsx"
+    },
+    {
+      "slug": "visa-and-entry-requirements-tracker",
+      "name": "Visa and Entry Requirements Tracker",
+      "description": "Track each destination's entry requirement and application deadline.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/visa-and-entry-requirements-tracker.xlsx"
+    },
+    {
+      "slug": "travel-insurance-comparison",
+      "name": "Travel Insurance Comparison",
+      "description": "Compare policies by premium, cover limit and excess, with cost per day.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/travel-insurance-comparison.xlsx"
+    },
+    {
+      "slug": "event-guest-list",
+      "name": "Event Guest List",
+      "description": "Track invitations, RSVPs and plus-ones to get a confirmed guest count.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-guest-list.xlsx"
+    },
+    {
+      "slug": "event-run-sheet",
+      "name": "Event Run Sheet",
+      "description": "Plan the event timeline with start times, lengths, owners and an overall finish time.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-run-sheet.xlsx"
+    },
+    {
+      "slug": "wedding-seating-planner",
+      "name": "Wedding Seating Planner",
+      "description": "See how many seats are free at each table and flag any that are over capacity.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/wedding-seating-planner.xlsx"
+    },
+    {
+      "slug": "event-volunteer-roster",
+      "name": "Event Volunteer Roster",
+      "description": "Schedule volunteers by role and shift, and record hours and check-ins.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-volunteer-roster.xlsx"
+    },
+    {
+      "slug": "travel-time-and-layover-planner",
+      "name": "Travel Time and Layover Planner",
+      "description": "Work out the real elapsed time of each journey, allowing for time zone changes.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/travel-time-and-layover-planner.xlsx"
+    },
+    {
+      "slug": "trip-expense-splitter",
+      "name": "Trip Expense Splitter",
+      "description": "Record who paid what and see each person's balance for an equal split.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/trip-expense-splitter.xlsx"
+    },
+    {
+      "slug": "travel-journal",
+      "name": "Travel Journal",
+      "description": "Log each place with a highlight, notes and a rating, with an average rating.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/travel-journal.xlsx"
+    },
+    {
+      "slug": "destination-comparison-scorecard",
+      "name": "Destination Comparison Scorecard",
+      "description": "Score destinations on cost, weather, travel time and activities using your own weights.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/destination-comparison-scorecard.xlsx"
+    },
+    {
+      "slug": "event-ticket-tracker",
+      "name": "Event Ticket Tracker",
+      "description": "Track ticket orders, their total cost and whether they have been delivered.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-ticket-tracker.xlsx"
+    },
+    {
+      "slug": "event-feedback-summary",
+      "name": "Event Feedback Summary",
+      "description": "Count feedback scores for each question and see the average for each.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-feedback-summary.xlsx"
+    },
+    {
+      "slug": "school-trip-consent-and-payment-tracker",
+      "name": "School Trip Consent and Payment Tracker",
+      "description": "Track returned forms and payments for each participant, with balances to collect.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/school-trip-consent-and-payment-tracker.xlsx"
+    },
+    {
+      "slug": "daily-travel-spending-limit",
+      "name": "Daily Travel Spending Limit",
+      "description": "Set a limit for each day of a trip and track the running balance.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/daily-travel-spending-limit.xlsx"
+    },
+    {
+      "slug": "event-vendor-tracker",
+      "name": "Event Vendor Tracker",
+      "description": "Track each supplier's quote, deposit, contract status and balance owed.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/event-vendor-tracker.xlsx"
+    },
+    {
+      "slug": "trip-countdown-checklist",
+      "name": "Trip Countdown Checklist",
+      "description": "List tasks to finish before a trip, with owners, due dates and overdue flags.",
+      "category": "travel-events",
+      "categoryName": "Travel & Events",
+      "file": "downloads/travel-events/trip-countdown-checklist.xlsx"
+    },
+    {
+      "slug": "photography-shot-log",
+      "name": "Photography Shot Log",
+      "description": "Log each shot with its lens and settings, and mark your keepers.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/photography-shot-log.xlsx"
+    },
+    {
+      "slug": "recipe-book-cost-per-serving",
+      "name": "Recipe Book with Cost per Serving",
+      "description": "Price each recipe's ingredients and see the cost per serving.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/recipe-book-cost-per-serving.xlsx"
+    },
+    {
+      "slug": "baking-ratio-calculator",
+      "name": "Baking Ratio Calculator",
+      "description": "Work out baker's percentages and scale a dough recipe to any flour weight.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/baking-ratio-calculator.xlsx"
+    },
+    {
+      "slug": "home-brewing-log",
+      "name": "Home Brewing Log",
+      "description": "Record each batch's gravity readings and see its alcohol by volume.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/home-brewing-log.xlsx"
+    },
+    {
+      "slug": "knitting-pattern-row-counter",
+      "name": "Knitting Pattern Row Counter",
+      "description": "Track rows done against your pattern, with rows left and progress.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/knitting-pattern-row-counter.xlsx"
+    },
+    {
+      "slug": "model-railway-inventory",
+      "name": "Model Railway Inventory",
+      "description": "Catalogue locomotives, rolling stock and scenery by scale and condition.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/model-railway-inventory.xlsx"
+    },
+    {
+      "slug": "book-reading-tracker",
+      "name": "Book Reading Tracker",
+      "description": "Log each book with its dates, pages and rating, and see your totals.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/book-reading-tracker.xlsx"
+    },
+    {
+      "slug": "film-watch-log",
+      "name": "Film Watch Log",
+      "description": "Log films and episodes with where you watched them and how you rated them.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/film-watch-log.xlsx"
+    },
+    {
+      "slug": "board-game-score-tracker",
+      "name": "Board Game Score Tracker",
+      "description": "Record scores for each game session and mark the winners.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/board-game-score-tracker.xlsx"
+    },
+    {
+      "slug": "fantasy-league-points-calculator",
+      "name": "Fantasy League Points Calculator",
+      "description": "Turn weekly player stats into points using your league's rules.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/fantasy-league-points-calculator.xlsx"
+    },
+    {
+      "slug": "music-practice-log",
+      "name": "Music Practice Log",
+      "description": "Log each practice session with its focus and tempo, and see total practice time.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/music-practice-log.xlsx"
+    },
+    {
+      "slug": "song-chord-planner",
+      "name": "Song Chord Planner",
+      "description": "Plan the chords and strumming for each section of a song.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/song-chord-planner.xlsx"
+    },
+    {
+      "slug": "art-supply-inventory",
+      "name": "Art Supply Inventory",
+      "description": "Track paints, brushes and paper, with stock value and reorder alerts.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/art-supply-inventory.xlsx"
+    },
+    {
+      "slug": "seed-library-tracker",
+      "name": "Seed Library Tracker",
+      "description": "Track seed varieties, packets and germination rates, and flag old seed to test.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/seed-library-tracker.xlsx"
+    },
+    {
+      "slug": "fishing-catch-log",
+      "name": "Fishing Catch Log",
+      "description": "Log each catch with its size, weight and whether you released it.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/fishing-catch-log.xlsx"
+    },
+    {
+      "slug": "bird-watching-log",
+      "name": "Bird Watching Log",
+      "description": "Record each sighting with its count and behaviour, and count the species seen.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/bird-watching-log.xlsx"
+    },
+    {
+      "slug": "stamp-and-coin-collection-tracker",
+      "name": "Stamp and Coin Collection Tracker",
+      "description": "Record each item with its condition, what you paid and its current value.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/stamp-and-coin-collection-tracker.xlsx"
+    },
+    {
+      "slug": "video-game-backlog-tracker",
+      "name": "Video Game Backlog Tracker",
+      "description": "Track your game backlog by status, priority and hours played.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/video-game-backlog-tracker.xlsx"
+    },
+    {
+      "slug": "podcast-episode-planner",
+      "name": "Podcast Episode Planner",
+      "description": "Plan episodes from idea to publishing, with days left until each release.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/podcast-episode-planner.xlsx"
+    },
+    {
+      "slug": "writing-word-count-tracker",
+      "name": "Writing Word Count Tracker",
+      "description": "Log daily words for each project and see whether you met your goal.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/writing-word-count-tracker.xlsx"
+    },
+    {
+      "slug": "novel-chapter-outline-planner",
+      "name": "Novel Chapter Outline Planner",
+      "description": "Outline each chapter with its word target and see progress across the book.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/novel-chapter-outline-planner.xlsx"
+    },
+    {
+      "slug": "yarn-stash-inventory",
+      "name": "Yarn Stash Inventory",
+      "description": "Catalogue your yarn by weight, skeins and metres, and link it to a planned project.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/yarn-stash-inventory.xlsx"
+    },
+    {
+      "slug": "woodworking-cut-list",
+      "name": "Woodworking Cut List",
+      "description": "List each part to cut with its size, quantity and the face area of board it needs.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/woodworking-cut-list.xlsx"
+    },
+    {
+      "slug": "sewing-measurement-chart",
+      "name": "Sewing Measurement Chart",
+      "description": "Compare pattern sizes with your measurements and see the ease in each size.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/sewing-measurement-chart.xlsx"
+    },
+    {
+      "slug": "vinyl-record-catalogue",
+      "name": "Vinyl Record Catalogue",
+      "description": "Catalogue your records by format, label, condition and price paid.",
+      "category": "hobbies-creative-projects",
+      "categoryName": "Hobbies & Creative Projects",
+      "file": "downloads/hobbies-creative-projects/vinyl-record-catalogue.xlsx"
+    },
+    {
+      "slug": "social-media-content-calendar",
+      "name": "Social Media Content Calendar",
+      "description": "Plan posts by date and platform, then record likes and reach to see engagement.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/social-media-content-calendar.xlsx"
+    },
+    {
+      "slug": "email-campaign-tracker",
+      "name": "Email Campaign Tracker",
+      "description": "Track sends, opens and clicks for each email campaign.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/email-campaign-tracker.xlsx"
+    },
+    {
+      "slug": "marketing-budget-and-roi-tracker",
+      "name": "Marketing Budget and ROI Tracker",
+      "description": "Compare each channel's budget and spend with the revenue it brought in.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/marketing-budget-and-roi-tracker.xlsx"
+    },
+    {
+      "slug": "lead-tracker",
+      "name": "Lead Tracker",
+      "description": "Track each lead from first contact to sale, with its value and next follow-up.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/lead-tracker.xlsx"
+    },
+    {
+      "slug": "customer-database",
+      "name": "Customer Database",
+      "description": "Keep customer contacts, spend and tier in one list.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/customer-database.xlsx"
+    },
+    {
+      "slug": "sales-commission-calculator",
+      "name": "Sales Commission Calculator",
+      "description": "Work out commission with a base rate up to target and a bonus rate above it.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/sales-commission-calculator.xlsx"
+    },
+    {
+      "slug": "monthly-sales-forecast",
+      "name": "Monthly Sales Forecast",
+      "description": "Compare each month's forecast with actual sales and see the variance.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/monthly-sales-forecast.xlsx"
+    },
+    {
+      "slug": "seo-keyword-tracker",
+      "name": "SEO Keyword Tracker",
+      "description": "Track target keywords, their pages and search positions against your goals.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/seo-keyword-tracker.xlsx"
+    },
+    {
+      "slug": "ad-spend-tracker",
+      "name": "Ad Spend Tracker",
+      "description": "Log ad spend, impressions and clicks, with cost per click and click-through rate.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/ad-spend-tracker.xlsx"
+    },
+    {
+      "slug": "customer-feedback-summary",
+      "name": "Customer Feedback Summary",
+      "description": "Count positive, neutral and negative comments for each topic.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/customer-feedback-summary.xlsx"
+    },
+    {
+      "slug": "net-promoter-score-tracker",
+      "name": "Net Promoter Score Tracker",
+      "description": "Record 0 to 10 scores and calculate your Net Promoter Score.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/net-promoter-score-tracker.xlsx"
+    },
+    {
+      "slug": "customer-churn-analysis",
+      "name": "Customer Churn Analysis",
+      "description": "Track customers gained and lost each month and see the churn rate.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/customer-churn-analysis.xlsx"
+    },
+    {
+      "slug": "competitor-comparison-matrix",
+      "name": "Competitor Comparison Matrix",
+      "description": "Rate features for your business and competitors, and see who leads on each.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/competitor-comparison-matrix.xlsx"
+    },
+    {
+      "slug": "swot-analysis",
+      "name": "SWOT Analysis",
+      "description": "List strengths, weaknesses, opportunities and threats with actions and owners.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/swot-analysis.xlsx"
+    },
+    {
+      "slug": "event-attendance-tracker",
+      "name": "Event Attendance Tracker",
+      "description": "Track registrations, attendance, leads and cost for each event.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/event-attendance-tracker.xlsx"
+    },
+    {
+      "slug": "support-ticket-sla-tracker",
+      "name": "Support Ticket SLA Tracker",
+      "description": "Check whether each support ticket was resolved within its target time.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/support-ticket-sla-tracker.xlsx"
+    },
+    {
+      "slug": "warehouse-picking-list",
+      "name": "Warehouse Picking List",
+      "description": "List order lines to pick and flag any that come up short.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/warehouse-picking-list.xlsx"
+    },
+    {
+      "slug": "order-fulfilment-tracker",
+      "name": "Order Fulfilment Tracker",
+      "description": "Track each order from order date to dispatch, and flag late shipments.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/order-fulfilment-tracker.xlsx"
+    },
+    {
+      "slug": "shipping-cost-calculator",
+      "name": "Shipping Cost Calculator",
+      "description": "Estimate shipping costs from parcel weight, parcel count and your rates.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/shipping-cost-calculator.xlsx"
+    },
+    {
+      "slug": "restaurant-food-cost-calculator",
+      "name": "Restaurant Food Cost Calculator",
+      "description": "Work out food cost percentage and gross profit for each dish.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/restaurant-food-cost-calculator.xlsx"
+    },
+    {
+      "slug": "staff-training-log",
+      "name": "Staff Training Log",
+      "description": "Record training courses and certificate expiry dates, with renewals flagged.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/staff-training-log.xlsx"
+    },
+    {
+      "slug": "employee-leave-tracker",
+      "name": "Employee Leave Tracker",
+      "description": "Log leave requests, count working days and see annual leave remaining.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/employee-leave-tracker.xlsx"
+    },
+    {
+      "slug": "performance-review-scorecard",
+      "name": "Performance Review Scorecard",
+      "description": "Score staff on four criteria and see each average and rating band.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/performance-review-scorecard.xlsx"
+    },
+    {
+      "slug": "recruitment-candidate-tracker",
+      "name": "Recruitment Candidate Tracker",
+      "description": "Track candidates through each recruitment stage with interview scores.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/recruitment-candidate-tracker.xlsx"
+    },
+    {
+      "slug": "shift-handover-log",
+      "name": "Shift Handover Log",
+      "description": "Pass on issues and open actions between shifts, and count what is still unresolved.",
+      "category": "sales-marketing-operations",
+      "categoryName": "Sales, Marketing & Operations",
+      "file": "downloads/sales-marketing-operations/shift-handover-log.xlsx"
+    }
+  ]
+}
