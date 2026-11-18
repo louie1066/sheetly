@@ -418,7 +418,7 @@ def fix_links(html, prefix):
     if not prefix:
         return html.replace('href="#categories"', 'href="index.html#categories"')
     html = html.replace('href="categories/', 'href="')
-    html = re.sub(r'(href|action)="(index\.html|about\.html|privacy\.html|terms\.html|licence\.html|contact\.html|popular\.html|search\.html)"',
+    html = re.sub(r'(href|action)="(index\.html|all\.html|about\.html|privacy\.html|terms\.html|licence\.html|contact\.html|popular\.html|search\.html)"',
                   lambda m: f'{m.group(1)}="{prefix}{m.group(2)}"', html)
     return html.replace('href="#categories"', f'href="{prefix}index.html#categories"')
 
@@ -585,6 +585,34 @@ open(f"{SITE}/sitemap.html", "w", encoding="utf-8").write(
     page("Site map | Sheetly",
          "A list of every page on Sheetly and every free spreadsheet template, by category.",
          sitemap_body, ""))
+
+# ---------------------------------------------------------------- all templates page (alphabetical)
+def all_templates_sections():
+    sections = []
+    for cat in sorted(GROUPS_BY_CAT, key=lambda c: CATEGORIES[c].lower()):
+        names = sorted((by_slug[slug][0], slug) for _, slugs in GROUPS_BY_CAT[cat] for slug in slugs)
+        items = [f'          <li><a href="downloads/{CAT_OF[slug]}/{slug}.xlsx">{name.replace("&", "&amp;")}</a></li>'
+                 for name, slug in names]
+        cat_name = CATEGORIES[cat].replace("&", "&amp;")
+        sections.append(f"""      <section class="sitemap-cat" aria-labelledby="all-{cat}">
+        <h3 id="all-{cat}"><a href="categories/{cat}.html">{cat_name}</a></h3>
+        <ul class="sitemap-list">
+{chr(10).join(items)}
+        </ul>
+      </section>""")
+    return chr(10).join(sections)
+
+
+all_body = f"""<main id="main">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="index.html">Home</a> &rsaquo; All templates</nav>
+  <h1 class="page-title">All templates</h1>
+  <p class="page-intro">Every free template, listed alphabetically by category, then by name.</p>
+{all_templates_sections()}
+</main>"""
+open(f"{SITE}/all.html", "w", encoding="utf-8").write(
+    page("All templates | Sheetly",
+         "Every free spreadsheet template, listed alphabetically by category and by name.",
+         all_body, ""))
 
 # ---------------------------------------------------------------- catalogue data for the page script
 catalogue = [{"slug": slug, "name": name, "description": desc, "category": CAT_OF[slug],
