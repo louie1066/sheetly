@@ -433,6 +433,7 @@ def page(title, description, body, prefix, extra_script=""):
 <meta name="description" content="{description}">
 <link rel="stylesheet" href="{prefix}css/style.css">
 <link rel="icon" href="{prefix}favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{prefix}apple-touch-icon.png">
 </head>
 <body>
 
