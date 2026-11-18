@@ -225,12 +225,16 @@
 
     /* ----- Category links: mark the current page, and scroll the row to it ----- */
     var headerNav = document.querySelector('.header-nav');
-    var here = window.location.pathname.split('/').pop() || 'index.html';
+    function pageName(p) {
+      var last = p.split('/').pop().replace(/\.html$/, '');
+      return last === '' ? 'index' : last;
+    }
+    var here = pageName(window.location.pathname);
     var navLinks = headerNav.querySelectorAll('a');
     var currentLink = null;
 
     for (var n = 0; n < navLinks.length; n++) {
-      if (navLinks[n].getAttribute('href').split('/').pop() === here) {
+      if (pageName(navLinks[n].getAttribute('href')) === here) {
         navLinks[n].setAttribute('aria-current', 'page');
         currentLink = navLinks[n];
       }
