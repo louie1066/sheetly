@@ -704,7 +704,7 @@ about_body = prose(
             "Templates are tools for planning and organising. Calculations such as tax, loan and payoff estimates are approximations. Check important decisions with a qualified professional or your local authority. See the <a href=\"terms.html\">Terms of Use</a> for details.",
         ]),
         ("About the author", [
-            "Sheetly is created and maintained by Mark, a teacher of computing and ICT who builds learning resources and everyday planning tools.",
+            "Sheetly is created and maintained by Mark Nicholls, a teacher of computing and ICT who builds learning resources and everyday planning tools.",
         ]),
         ("Get in touch", [
             "Have a question, a template request or feedback? Visit the <a href=\"contact.html\">Contact us</a> page, or email <a href=\"mailto:" + CONTACT_EMAIL + "\">" + CONTACT_EMAIL + "</a>. Suggestions for new templates are always welcome.",
@@ -760,7 +760,7 @@ licence_body = prose(
             "You are free to share (copy and redistribute the file in any medium or format) and to adapt it (remix, transform and build on it) for any purpose, including commercially.",
         ]),
         ("What you must do", [
-            "Give appropriate credit: name the author, Mark, and Sheetly, and link to the licence. Indicate if you made changes. Do not suggest the author endorses your use.",
+            "Give appropriate credit: name the author, Mark Nicholls, and Sheetly, and link to the licence. Indicate if you made changes. Do not suggest the author endorses your use.",
         ]),
         ("Full licence text", [
             "Read the full licence at <a href=\"https://creativecommons.org/licenses/by/4.0/\">creativecommons.org/licenses/by/4.0</a>.",

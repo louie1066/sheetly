@@ -112,7 +112,7 @@ def how_to_sheet(wb, name, title, steps):
     ws.row_dimensions[r].height = 30
     r += 1
     put(ws, r, 2, "Author", kind="label", bold=True)
-    put(ws, r, 3, "Sheetly (sheetly.example)", kind="label")
+    put(ws, r, 3, "Mark Nicholls, for Sheetly (sheetly.example)", kind="label")
     r += 1
     put(ws, r, 2, "Example data", kind="label", bold=True)
     put(ws, r, 3, "All figures are generic examples. Replace them with your own.", kind="label")
