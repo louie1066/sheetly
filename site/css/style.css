@@ -102,6 +102,29 @@
     letter-spacing: 0.3px;
   }
   .brand:hover { text-decoration: none; }
+  /* Small "Home Page" label under the logo and name, shown on hover or keyboard focus */
+  .brand { position: relative; }
+  .brand[data-tip]::after {
+    content: attr(data-tip);
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 4px 8px;
+    background: var(--text);
+    color: var(--surface);
+    font-size: 0.75rem;
+    font-weight: normal;
+    line-height: 1.2;
+    white-space: nowrap;
+    border-radius: 6px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease;
+    z-index: 20;
+  }
+  .brand[data-tip]:hover::after,
+  .brand[data-tip]:focus::after { opacity: 1; }
   .brand svg { width: 40px; height: 40px; flex-shrink: 0; }
   .brand small {
     display: block;
