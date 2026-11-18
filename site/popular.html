@@ -223,6 +223,15 @@
         .catch(function () { /* counter unavailable: the file still downloads */ });
     });
 
+    /* ----- Home Page label: follows the mouse across the logo and name ----- */
+    var brandLink = document.querySelector('.brand');
+    if (brandLink) {
+      brandLink.addEventListener('mousemove', function (e) {
+        var r = brandLink.getBoundingClientRect();
+        brandLink.style.setProperty('--tip-x', (e.clientX - r.left) + 'px');
+      });
+    }
+
     /* ----- Category links: mark the current page, and scroll the row to it ----- */
     var headerNav = document.querySelector('.header-nav');
     function pageName(p) {
