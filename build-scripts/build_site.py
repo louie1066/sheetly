@@ -432,6 +432,7 @@ def page(title, description, body, prefix, extra_script=""):
 <title>{title}</title>
 <meta name="description" content="{description}">
 <link rel="stylesheet" href="{prefix}css/style.css">
+<link rel="icon" href="{prefix}favicon.svg" type="image/svg+xml">
 </head>
 <body>
 
